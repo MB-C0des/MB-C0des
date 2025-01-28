@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MB-C0des
 - 👀 I’m interested in behavioural analytics and data science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on cohoart analysis projects
+- 💞️ I’m looking to collaborate on cohort analysis projects
 - 📫 How to reach me: mobolaji.otunuga@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Australia is wider than the moon!
